@@ -50,7 +50,7 @@ This Excel-based dashboard provides deep insights into Meesho's sales data. It's
 
 ## 📩 Contact
 
-For suggestions or collaborations, feel free to connect via [LinkedIn](https://www.linkedin.com).
+For suggestions or collaborations, feel free to connect via [LinkedIn](www.linkedin.com/in/ishwari-gurde-86657a2a2).
 
 ---
 
